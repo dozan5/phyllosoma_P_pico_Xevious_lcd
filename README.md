@@ -13,8 +13,6 @@ Raspberry Pi Picoへ移植しました。
 　「MACHIKAP.INI」に「LCD180TURN」と記載すると表示を180度反転します。  
 　　又「ROTATEBUTTONS」を記載すると上下左右ボタンを入れ替ます。  
 
-　※SPIクロックはオーバークロック（62.5MHz）しています。  
-
 uf2フォルダー内のファイルを参照ください。  
 　　各HORIZONTAL,VERTICALフォルダーにpico版、pico2版に分けて保存しています。  
  　　　※pico2対応版を追加しました。（2024/10/28）  
