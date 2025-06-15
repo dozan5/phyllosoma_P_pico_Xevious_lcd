@@ -12,8 +12,8 @@ HORIZONTALバージョン
 　　又「ROTATEBUTTONS」を記載すると上下左右ボタンを入れ替ます。  
 
 　uf2フォルダー内のファイルを参照ください。  
-　　「HORIZONTAL」,「VERTICAL」フォルダーに「pico」、「pico2」に  
-　　それぞれ「Normal」音声と「PWM」音声（外部アンプ用）有ります。  
+　　「HORIZONTAL」,「VERTICAL」フォルダー内の「pico」、「pico2」に  
+　　それぞれ「Normal」音声と「PWM」音声（外部アンプ要）有ります。  
 
    ※pico2対応版を追加しました。（2024/10/28）  
  　※UEBKeyBoadに対応しました。（2025/06/15）  
