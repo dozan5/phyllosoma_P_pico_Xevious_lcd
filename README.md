@@ -13,7 +13,7 @@ HORIZONTALバージョン
 
 　uf2フォルダー内のファイルを参照ください。  
 　　「HORIZONTAL」,「VERTICAL」フォルダー内の「pico」、「pico2」に  
-　　それぞれ「Normal」音声と「PWM」音声（外部アンプ要）有ります。  
+　　それぞれ「Normal」音声と「PWM」音声（外部アンプ要）を保存しました。  
 
    ※pico2対応版を追加しました。（2024/10/28）  
  　※UEBKeyBoadに対応しました。（2025/06/15）  
