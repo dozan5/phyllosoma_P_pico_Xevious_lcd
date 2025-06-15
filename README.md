@@ -15,6 +15,6 @@ HORIZONTALバージョン
 　　「HORIZONTAL」,「VERTICAL」フォルダー内の「pico」、「pico2」に  
 　　それぞれ「Normal」音声と「PWM」音声（外部アンプ要）を保存しました。  
 
-   ※pico2対応版を追加しました。（2024/10/28）  
- 　※UEBKeyBoadに対応しました。（2025/06/15）  
- 　　キー操作はphyllosoma_Pに準拠、FIREキーはZキー、STARTキーはXキーを追加
+　　※pico2対応版を追加しました。（2024/10/28）  
+　　※UEBKeyBoadに対応しました。（2025/06/15）  
+ 　　　キー操作はphyllosoma_Pに準拠、FIREキーはZキー、STARTキーはXキーを追加
