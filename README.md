@@ -1,4 +1,4 @@
-# MachiKania type P Pico版 Xeviousもどき  
+# MachiKania type P Pico Xeviousもどき  
 Katsumi様、KenKen様作成の[MachiKania type M](http://www.ze.em-net.ne.jp/~kenken/machikania/typem.html)用に作成した「Xeviousもどき」を  
 Raspberry Pi Picoへ移植し [MachiKania type P](http://www.ze.em-net.ne.jp/~kenken/machikania/typep.html)に対応しました。    
  
